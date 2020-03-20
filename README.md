@@ -25,3 +25,7 @@ Tweepy
 <br />Matplolib
 
 These libraries are required in advance of running the code.
+
+# Data
+
+When uploading the data the file exceeded the 25MB limit therefore the original data was cut down very slightly in order to upload.
